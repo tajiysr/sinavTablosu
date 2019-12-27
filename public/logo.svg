@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#282828;}
+</style>
+<text transform="matrix(1 0 0 1 215.0238 -103.526)" style="font-family:'ProximaNova-Bold'; font-size:111.2644px;">M</text>
+<text transform="matrix(1 0 0 1 398.0238 -103.526)" style="font-family:'ProximaNova-Bold'; font-size:111.2644px;">T</text>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="128.4485" y1="437.4564" x2="512.7427" y2="437.4564" gradientTransform="matrix(-1 0 0 -1 595.7158 840.0489)">
+		<stop  offset="0" style="stop-color:#E12B26"/>
+		<stop  offset="1" style="stop-color:#F8951D"/>
+	</linearGradient>
+	<path class="st0" d="M179,470.1c25.6,0,47.9-14.3,59.3-35.3c11.5,21,33.7,35.3,59.3,35.3c25.6,0,47.8-14.3,59.3-35.3
+		c11.5,21,33.7,35.3,59.3,35.3c37.2,0,67.5-30.3,67.5-67.5c0-37.2-30.3-67.5-67.5-67.5c-4.6,0-8.4,3.7-8.4,8.4
+		c0,4.6,3.7,8.4,8.4,8.4c28,0,50.8,22.8,50.8,50.8c0,28-22.8,50.8-50.8,50.8c-28,0-50.8-22.8-50.8-50.8c0-0.8-0.2-1.6-0.4-2.3
+		c-1.2-36.1-31-65.2-67.5-65.2c-4.6,0-8.4,3.7-8.4,8.4c0,4.6,3.7,8.4,8.4,8.4c28,0,50.8,22.8,50.8,50.8c0,28-22.8,50.8-50.8,50.8
+		c-28,0-50.8-22.8-50.8-50.8c0-0.8-0.2-1.6-0.4-2.4c-1.2-36.1-31-65.2-67.5-65.2c-4.6,0-8.4,3.7-8.4,8.4c0,4.6,3.7,8.4,8.4,8.4
+		c28,0,50.8,22.8,50.8,50.8c0,28-22.8,50.8-50.8,50.8c-28,0-50.8-22.8-50.8-50.8c0-4.6-3.7-8.4-8.4-8.4s-8.4,3.7-8.4,8.4
+		C111.5,439.8,141.8,470.1,179,470.1z"/>
+	<g>
+		<path class="st1" d="M151.8,428.2V379h14.7l11.9,30.8l12-30.8h14.7v49.2h-10.5v-35.5l-13.9,35.5h-4.6l-13.9-35.5v35.5H151.8z"/>
+	</g>
+	<g>
+		<path class="st1" d="M278,388.2V379h39.3v9.2h-14.4v40h-10.5v-40H278z"/>
+	</g>
+	<g>
+		<path class="st1" d="M395.7,388.2V379H435v9.2h-14.4v40h-10.5v-40H395.7z"/>
+	</g>
+</g>
+</svg>
