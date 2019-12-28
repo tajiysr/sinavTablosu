@@ -48,6 +48,7 @@ class Table extends Component {
   render() {
     return (
       <div>
+        <h2>Sınavlar Tablosu</h2>
         <table id="exams">
           <tbody>
             <tr>{this.renderTableHeader()}</tr>

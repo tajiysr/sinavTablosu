@@ -6,10 +6,10 @@ body {
   font-size: 18px;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 #exams {
   text-align: center;
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
@@ -30,7 +30,6 @@ img {
   max-width: 80px;
 }
 p {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   color: #fff;
   padding: 12px;
   margin: 0px;
