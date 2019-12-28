@@ -1,6 +1,6 @@
 body {
   background-image: url(./bg.jpg);
-  background-size:cover;
+  background-size:100vh;
   color: #fff;
   text-align: center;
   font-size: 18px;
@@ -11,6 +11,7 @@ body {
   text-align: center;
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
+  width: 100%;
 }
 
 #exams td,
