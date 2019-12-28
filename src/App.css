@@ -1,28 +1,29 @@
 body {
   background-image: url(./bg.jpg);
-  background-size: cover;
+  background-size:cover;
   color: #fff;
   text-align: center;
   font-size: 18px;
   background-attachment: fixed;
-  
+  background-repeat: no-repeat;
 }
 #exams {
   text-align: center;
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
-  margin-bottom: 5px;
 }
 
 #exams td,
 #exams th {
   border: 1px solid #ffffff;
-  padding: 10px;
-  width: 100%;
+  padding: 11px 10px 11px 10px;
 }
 .cop {
+  position: absolute;
   display: flex;
   justify-content: center;
+  width: 100%;
+  bottom: 5px;
 }
 img {
   max-width: 80px;

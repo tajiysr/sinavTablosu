@@ -23,13 +23,6 @@ class Table extends Component {
       ]
     };
   }
-
-  componentDidMount() {
-    setInterval(() => {
-      window.location.reload(false);
-    }, 60000);
-  }
-
   renderTableData() {
     return this.state.exams
       .filter(x => moment(x.date).isAfter(new Date()))
