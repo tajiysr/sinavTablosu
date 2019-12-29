@@ -48,6 +48,7 @@ class Table extends Component {
   render() {
     return (
       <div>
+        <div>
         <h2>Sınavlar Tablosu</h2>
         <table id="exams">
           <tbody>
@@ -55,6 +56,9 @@ class Table extends Component {
             {this.renderTableData()}
           </tbody>
         </table>
+        </div>
+        <div className="clearfix"></div>
+        <div className="footer">
         <div className="cop">
           <div>
             <p>
@@ -62,6 +66,7 @@ class Table extends Component {
             </p>
             <img src="./logo.svg" />
           </div>
+        </div>
         </div>
       </div>
     );
