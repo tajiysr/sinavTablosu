@@ -11,7 +11,7 @@ class Table extends Component {
           name: "Banka ve Sigorta Muhasebesi",
           date: new Date(2020, 0, 5, 16)
         },
-        { id: 2, name: "Pazarlama ilkeleri", date: new Date(2020, 0, 6, 9) },
+        { id: 2, name: "Pazarlama ilkeleri", date: new Date(2020, 0, 7, 9) },
         { id: 3, name: "Stratejik Yönetim", date: new Date(2020, 0, 9, 11) },
         { id: 4, name: "Marka Yönetimi", date: new Date(2020, 0, 10, 11) },
         { id: 5, name: "Yönetim Muhasebesi", date: new Date(2020, 0, 11, 13) },
